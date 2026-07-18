@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Niharika00000/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Niharika00000/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Niharika00000/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Niharika00000/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -67,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Niharika00000/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Niharika00000/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
