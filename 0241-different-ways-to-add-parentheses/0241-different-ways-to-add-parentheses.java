@@ -1,0 +1,33 @@
+class Solution {
+    public List<Integer> diffWaysToCompute(String expression) {
+     List<Integer> result = new ArrayList<>();
+     for(int i=0;i<expression.length();i++){
+        char ch = expression.charAt(i);
+        if(ch=='+' || ch=='-'|| ch=='*'){
+            String leftPart = expression.substring(0,i);
+            String rightPart = expression.substring(i+1);
+             List<Integer> left = diffWaysToCompute(leftPart);
+              List<Integer> right = diffWaysToCompute(rightPart);
+
+              for(int a:left){
+for(int b:right){
+    if(ch=='+')
+    result.add(a+b);
+
+    else if(ch=='-')
+    result.add(a-b);
+
+    else{
+        result.add(a*b);
+    }
+}
+              }
+
+        }
+     }  
+     if(result.size()==0){
+        result.add(Integer.parseInt(expression));
+     } 
+     return result;
+    }
+}
