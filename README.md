@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Niharika00000/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0047-permutations-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Niharika00000/leetcode-solutions/tree/master/0078-subsets) |
 | [0228-summary-ranges](https://github.com/Niharika00000/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0229-majority-element-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Niharika00000/leetcode-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
