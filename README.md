@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Niharika00000/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Niharika00000/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Niharika00000/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Niharika00000/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Trie
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Niharika00000/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Niharika00000/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Niharika00000/leetcode-solutions/tree/master/0078-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Niharika00000/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
