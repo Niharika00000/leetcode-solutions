@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Niharika00000/leetcode-solutions/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/Niharika00000/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0486-predict-the-winner](https://github.com/Niharika00000/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niharika00000/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Niharika00000/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/Niharika00000/leetcode-solutions/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Niharika00000/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/Niharika00000/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Niharika00000/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Niharika00000/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Niharika00000/leetcode-solutions/tree/master/0258-add-digits) |
+| [0486-predict-the-winner](https://github.com/Niharika00000/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niharika00000/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Niharika00000/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/Niharika00000/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
@@ -129,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Niharika00000/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Niharika00000/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
