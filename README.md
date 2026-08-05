@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Niharika00000/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Niharika00000/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niharika00000/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/Niharika00000/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [3731-find-missing-elements](https://github.com/Niharika00000/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0229-majority-element-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [3731-find-missing-elements](https://github.com/Niharika00000/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
