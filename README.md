@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Niharika00000/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Niharika00000/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Niharika00000/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Niharika00000/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Niharika00000/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Trie
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Niharika00000/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Niharika00000/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Niharika00000/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Niharika00000/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/Niharika00000/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Niharika00000/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/Niharika00000/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
