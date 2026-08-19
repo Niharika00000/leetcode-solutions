@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Niharika00000/leetcode-solutions/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Niharika00000/leetcode-solutions/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/Niharika00000/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Niharika00000/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/Niharika00000/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Niharika00000/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Niharika00000/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Niharika00000/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0217-contains-duplicate](https://github.com/Niharika00000/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/Niharika00000/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Counting
