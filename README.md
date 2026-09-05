@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niharika00000/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Niharika00000/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3731-find-missing-elements](https://github.com/Niharika00000/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/Niharika00000/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
@@ -191,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3903-smallest-stable-index-i](https://github.com/Niharika00000/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Niharika00000/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
