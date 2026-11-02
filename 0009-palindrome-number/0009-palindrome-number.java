@@ -11,9 +11,7 @@ class Solution {
             reverse = reverse * 10+modulous; 
              x = x/10;
         }
-        if (original==reverse){
-return true;
-        }
-        return false;
+        
+        return original == reverse;
     }
 }
